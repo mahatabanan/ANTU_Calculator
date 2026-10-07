@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#000000</color> <!-- নাইট মোডে ব্যাকগ্রাউন্ড কালো -->
+    <color name="text_primary">#FFFFFF</color> <!-- নাইট মোডে টেক্সট সাদা -->
+    <color name="text_secondary">#AAAAAA</color>
+
+    <!-- বাটনের কালার -->
+    <color name="btn_dark_bg">#222222</color> <!-- নাইট মোডে বাটন কালো -->
+    <color name="btn_light_bg">#555555</color>
+    <color name="btn_orange_bg">#FF9800</color>
+</resources>
